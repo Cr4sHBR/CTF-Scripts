@@ -1,4 +1,5 @@
-Script in Python for you get Flag
+Script in Python to get the flags of Bandit challenge
 
-To use this scripts you will need Paramiko, to install,
-pip install paramiko
+http://overthewire.org/wargames/bandit/
+
+
